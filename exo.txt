@@ -4,7 +4,7 @@ Exo 1 : Vérification de parité Fait
 Exercice 2 : Recherche du plus grand nombre Fait
 Écrivez un algorithme qui demande à l'utilisateur de saisir trois nombres et affiche le plus grand des trois.
 
-Exercice 3 : Calcul de la factorielle
+Exercice 3 : Calcul de la factorielle Fait
 Écrivez un algorithme qui demande à l'utilisateur de saisir un nombre entier n et calcule et affiche la factorielle de ce nombre (n!).
 
 Exercice 4 : Vérification de palindrome 
@@ -18,3 +18,22 @@ Exercice 6 : Conversion de température Fait
 
 Exercice 7 : Calcul de la moyenne
 Écrivez un algorithme qui demande à l'utilisateur combien de nombres il souhaite entrer, puis prend ces nombres en entrée et affiche leur moyenne.
+
+Exercice 8 : Table de multiplication Fait
+Demandez à l'utilisateur d'entrer un nombre, puis affichez la table de multiplication de ce nombre de 1 à 10.
+
+Exercice 9 : Jeu de devinette Fait
+Générez un nombre aléatoire entre 1 et 100. Demandez à l'utilisateur de deviner ce nombre et donnez-lui des indications (plus grand, plus petit) jusqu'à ce qu'il trouve le
+
+Exercice 10 : FizzBuzz
+Écrivez un programme qui affiche les nombres de 1 à 100. Cependant, pour les multiples de 3, affichez "Fizz" à la place du nombre. Pour les multiples de 5, affichez "Buzz". Pour les nombres qui sont à la fois des multiples de 3 et de 5, affichez "FizzBuzz".
+1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, 16, 17, Fizz, 19, Buzz, Fizz ...
+
+Exercice 11 : Calcul du PGCD
+Écrivez un programme qui calcule le Plus Grand Commun Diviseur (PGCD) de deux nombres saisis par l'utilisateur.
+
+Exercice 12 : Recherche dans une liste
+Créez une liste de nombres. Demandez à l'utilisateur d'entrer un nombre et vérifiez s'il est présent dans la liste.
+
+Exercice 13 : Jeu de pierre-papier-ciseaux
+Implémentez le jeu classique pierre-papier-ciseaux. Demandez à l'utilisateur de choisir, générez un choix pour l'ordinateur, puis déterminez le gagnant en fonction des règles du jeu.
