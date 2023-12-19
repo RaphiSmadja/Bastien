@@ -1,0 +1,20 @@
+Exo 1 : Vérification de parité Fait
+Écrivez un algorithme qui demande à l'utilisateur de saisir un nombre entier et affiche si ce nombre est pair ou impair.
+
+Exercice 2 : Recherche du plus grand nombre Fait
+Écrivez un algorithme qui demande à l'utilisateur de saisir trois nombres et affiche le plus grand des trois.
+
+Exercice 3 : Calcul de la factorielle
+Écrivez un algorithme qui demande à l'utilisateur de saisir un nombre entier n et calcule et affiche la factorielle de ce nombre (n!).
+
+Exercice 4 : Vérification de palindrome 
+Écrivez un algorithme qui demande à l'utilisateur de saisir une chaîne de caractères et affiche si cette chaîne est un palindrome (c'est-à-dire qu'elle se lit de la même manière de gauche à droite et de droite à gauche).
+
+Exercice 5 : Calcul de la somme des entiers jusqu'à N
+Écrivez un algorithme qui demande à l'utilisateur un entier positif N, puis calcule et affiche la somme des entiers de 1 à N.
+
+Exercice 6 : Conversion de température Fait
+Écrivez un algorithme qui demande à l'utilisateur de saisir une température en degrés Celsius et la convertit en degrés Fahrenheit en utilisant la formule de conversion : F = (C × 9/5) + 32.
+
+Exercice 7 : Calcul de la moyenne
+Écrivez un algorithme qui demande à l'utilisateur combien de nombres il souhaite entrer, puis prend ces nombres en entrée et affiche leur moyenne.
